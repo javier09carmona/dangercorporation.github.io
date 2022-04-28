@@ -33,7 +33,7 @@ a{
       align-items: flex-start;
     } 
     #nav{
-      padding: 15px;
+      padding: 25px;
       position: fixed;
       bottom: 150px;
       right: 40px;
@@ -47,7 +47,7 @@ a{
     }
     #navbarCollapse{
       position: fixed;
-      bottom: 110px;
+      bottom: 230px;
       right: 40px;
       background-color: #fff;
   
