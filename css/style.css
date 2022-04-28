@@ -33,7 +33,7 @@ a{
       align-items: flex-start;
     } 
     #nav{
-      padding: 25px;
+      padding: 20px;
       position: fixed;
       bottom: 150px;
       right: 40px;
@@ -44,10 +44,11 @@ a{
     }
     .icon-menu{
       color: #000;
+      font-size: 45px;
     }
     #navbarCollapse{
       position: fixed;
-      bottom: 230px;
+      bottom: 250px;
       right: 40px;
       background-color: #fff;
   
